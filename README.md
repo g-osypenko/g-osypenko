@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @g-osypenko
-- 👀 I’m interested in React js front-end developing
-- 🌱 I’m currently learning React and JS
+- 👀 I’m interested in Python and AI integration
+- 🌱 I’m currently learning Python and LLM prompt engineering
 - 📫 How to reach me g.osypenko@gmail.com
 
 <!---
